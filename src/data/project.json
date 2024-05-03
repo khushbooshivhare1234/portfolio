@@ -1,0 +1,50 @@
+[
+  {
+    "title": "Smart Contact Manager",
+    "imageSrc": "projects/project.png",
+    "description": "RozPay is an online job portal aimed at simplifying job searches for daily wage workers and helping citizens find skilled workers for their day-to-day tasks",
+    "skills": ["Html", "CSS", "SpringBoot", "SQL"],
+    "demo": "",
+    "source": "https://github.com/khushbooshivhare1234/SmartContactManager"
+  },
+  {
+    "title": "GitHub Profile Search",
+    "imageSrc": "projects/project.png",
+    "description": "The To-Do List app offers a user-friendly interface for efficient and intuitive task management experience, powered by robust backend logic .",
+    "skills": ["Java", "Servlet", "JSP", "JDBC"],
+    "demo": "",
+    "source": "https://github.com/khushbooshivhare1234/github_profiles"
+  },
+  {
+    "title": "SudokuSolver",
+    "imageSrc": "projects/project.png",
+    "description": "The To-Do List app offers a user-friendly interface for efficient and intuitive task management experience, powered by robust backend logic .",
+    "skills": ["HTML", "CSS", "JavaScript"],
+    "demo": "https://khushbooshivhare1234.github.io/sudokuSlover/",
+    "source": "https://github.com/khushbooshivhare1234/sudokuSlover"
+  },
+  {
+    "title": "GuessNumber",
+    "imageSrc": "projects/project.png",
+    "description": "The To-Do List app offers a user-friendly interface for efficient and intuitive task management experience, powered by robust backend logic .",
+    "skills": ["HTML", "CSS", "JavaScript"],
+    "demo": "https://khushbooshivhare1234.github.io/guessNumber/",
+    "source": "https://github.com/khushbooshivhare1234/guessNumber"
+  },
+  {
+    "title": "TemperatureConverter",
+    "imageSrc": "projects/project.png",
+    "description": "A Portfolio Website built with React is a dynamic and interactive platform designed to showcase an my personal project, work, skills, and achievements",
+    "skills": ["JavaScript", "HTML", "CSS"],
+    "demo": "https://khushbooshivhare1234.github.io/TempratureConverter/",
+    "source": "https://github.com/khushbooshivhare1234/TempratureConverter"
+  },
+  {
+    "title": "WeatherForClimate",
+    "imageSrc": "projects/project.png",
+    "description": "the Weather Web Application built with React offers users a seamless and engaging experience for accessing accurate and timely weather information",
+    "skills": ["React", "CSS"],
+    "demo": "https://weatherforclimate.netlify.app/",
+    "source": "https://github.com/khushbooshivhare1234/weatherforclimate"
+  }
+]
